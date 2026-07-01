@@ -1,6 +1,6 @@
 # Kevin Lim — Portfolio
 
-A static personal portfolio website for **Deokhyeon (Kevin) Lim**, an IT professional focused on cloud infrastructure, automation, data analytics, cybersecurity, and technical teaching.
+A static personal portfolio website for **Kevin Lim**, an IT professional focused on cloud infrastructure, automation, data analytics, cybersecurity, and technical teaching.
 
 ## Live Site
 
@@ -34,7 +34,6 @@ kevin-portfolio/
 - Projects — academic and professional projects with pagination
 - Certifications — swiper carousel of professional credentials
 - Awards — academic and volunteer recognition
-- Media — embedded professional interview video
 - Contact — location, email, education, LinkedIn, and GitHub
 
 ## Tech Stack
